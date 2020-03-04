@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="teanTextSize">25sp</dimen>
+    <dimen name="scoreSize">80sp</dimen>
+    <dimen name="buttonSize">30sp</dimen>
+</resources>
